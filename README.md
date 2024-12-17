@@ -1,1 +1,1 @@
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=axtrough&show_icons=true&theme=github_dark"
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=axtrough&show_icons=true&theme=github_dark" >
