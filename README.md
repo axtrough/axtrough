@@ -1,1 +1,1 @@
-(https://github-readme-stats.vercel.app/api?username=axtrough&show_icons=true&theme=github_dark)
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=axtrough&show_icons=true&theme=github_dark" /><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=axtrough&layout=compact&show_icons=true&theme=github_dark" />
